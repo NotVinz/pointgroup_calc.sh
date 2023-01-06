@@ -37,3 +37,5 @@ done
 rm -f jmol_PG_script.spt
 rm -f all_pg.txt
 rm -f NOH_pg.txt
+
+#Written by Vincenzo Brancaccio, 2023
