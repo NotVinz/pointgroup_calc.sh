@@ -12,7 +12,7 @@ echo " ! $0 *.xyz"
 exit
 fi
 
-cat <<EOF >>jmol_PG_script.spt
+cat <<EOF > jmol_PG_script.spt
 pg_var=pointgroup(all);
 all_pg=pg_var.name;
 sel_atoms=pg_var.detail
