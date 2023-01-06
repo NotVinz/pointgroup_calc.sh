@@ -13,3 +13,5 @@ in a folder containing three xyz files returns:
 >xtx.xyz C2 C2  
 
 Credits to jmol, our Lord and Saviour
+
+Written by Vincenzo Brancaccio, 2023
